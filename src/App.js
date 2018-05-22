@@ -4,7 +4,7 @@ import {Provider} from 'react-redux'
 import './App.css';
 import Main from './Main'
 import reducer from './Reducers'
-//Hai Deepak
+//Hai Deepak1
 import {combineReducers} from 'redux'
 
 const store= createStore(combineReducers({Counter:reducer}));

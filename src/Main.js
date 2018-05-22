@@ -19,7 +19,7 @@ class Main extends Component {
             
             </div>
             <div>
-            <button onClick={this.props.AddCounterMet}>add counter</button>
+            <button  onClick={this.props.AddCounterMet}>add all counter</button>
             <button onClick={this.props.DeleteCounterMet}>delete counter</button>
             </div>
             </div>
